@@ -1,0 +1,21 @@
+.
+├── aula copy.ipynb
+├── aula_openai.ipynb
+├── aula.ipynb
+├── corpus
+│   ├── Base_dados_textos_6_classes_limpo.csv
+│   └── Base_dados_textos_6_classes.xlsx
+├── database
+│   └── text_classification.db
+├── old
+│   ├── aula_teste.ipynb
+│   ├── aula.ipynb
+│   ├── requirements_complete.txt
+│   ├── requirements_install_v2.txt
+│   ├── requirements_install_v3.txt
+│   └── requirements_install.txt
+├── README.md
+├── requirements.txt
+└── tree.txt
+
+4 directories, 15 files
