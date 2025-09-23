@@ -1,5 +1,4 @@
 .
-├── aula copy.ipynb
 ├── aula_openai.ipynb
 ├── aula.ipynb
 ├── corpus
@@ -16,6 +15,8 @@
 │   └── requirements_install.txt
 ├── README.md
 ├── requirements.txt
+├── Testes
+│   └── aula copy.ipynb
 └── tree.txt
 
-4 directories, 15 files
+5 directories, 15 files
